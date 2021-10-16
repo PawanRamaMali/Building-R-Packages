@@ -41,4 +41,11 @@ The aim of devtools is to make package development easier by providing R functio
 * usethis:
 usethis is a workflow package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects.
 
+## Demo Package 
+
+### Create a blank package
+
+Can call usethis::create_package() or use the RStudio GUI.
+
+![image](https://user-images.githubusercontent.com/11299574/137598026-ed05acd8-2a90-4c98-8f08-6a5a558a0c78.png)
 
