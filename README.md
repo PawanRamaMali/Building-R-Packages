@@ -49,3 +49,7 @@ Can call usethis::create_package() or use the RStudio GUI.
 
 ![image](https://user-images.githubusercontent.com/11299574/137598026-ed05acd8-2a90-4c98-8f08-6a5a558a0c78.png)
 
+![image](https://user-images.githubusercontent.com/11299574/137598043-8f55339a-a317-424c-8df0-f47ccefc23e7.png)
+
+
+
