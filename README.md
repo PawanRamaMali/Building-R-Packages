@@ -53,3 +53,17 @@ Can call usethis::create_package() or use the RStudio GUI.
 
 
 
+## Version Control
+
+No shame or shade from us, but you should be using version control for your packages, for your production code, and most, if not all, of your important analysis code. We'll focus on packages for now. This allows your team to collaborate on development, and test changes to the code/packages with code review.
+
+At RStudio, we typically default to git and GitHub, although many folks may use SVN, BitBucket, GitLab, etc. Whatever you're using is great, but note that usethis is closely tied to GitHub.
+
+We can add a .git reference, and optionally add GitHub.
+```r
+usethis::use_git()
+# optionally use github, but you should make a connection
+# with whatever your version control is
+# usethis::use_github()
+```
+To read more about Version Control, and specifically how to use git with R, please see: happygitwithr.com by Jenny Bryan
