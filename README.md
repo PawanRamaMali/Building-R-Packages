@@ -6,7 +6,7 @@ Guide to building packages in R
 
 * source() references a specific .R file, reads it all in and executes it (which can include adding a function to the environment).
 
-* source()-ing: 
+### source()-ing: 
 
 * Doesn't "know" anything about versioning of the code, ie can be tied to a specific package version
 * Doesn't have included testing
