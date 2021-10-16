@@ -29,3 +29,16 @@ Guide to building packages in R
 * Tests that confirm your function "works as intended"
 
 * Other things (installed files, compiled code, data, tutorials, vignettes)
+
+
+### Writing packages, but easier
+
+While creating a package can seem intimidating, the tidyverse team has spent years crafting meta-packages to make life easier to create packages. These are used everyday by 1000s of package developers, and really do make the complicated things easier... with functions!
+
+* devtools:
+The aim of devtools is to make package development easier by providing R functions that simplify and expedite common tasks.
+
+* usethis:
+usethis is a workflow package: it automates repetitive tasks that arise during project setup and development, both for R packages and non-package projects.
+
+
